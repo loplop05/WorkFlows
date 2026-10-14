@@ -19,3 +19,4 @@ def ask_llm(prompt):
         result = json.load(response)
 
     return result["response"].strip()
+    
