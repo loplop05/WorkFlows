@@ -1,7 +1,5 @@
 
-# MODULE 4 MINI PROJECT
-# AI Support Ticket Workflow
-# Free, standard-library-only version
+
 
 
 def extract_ticket(message):
